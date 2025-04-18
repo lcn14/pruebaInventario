@@ -1,0 +1,6 @@
+gm\inventarios\servicio\ProductoService.class
+gm\inventarios\repositorio\ProductoRepositorio.class
+gm\inventarios\InventariosApplication.class
+gm\inventarios\servicio\ProductoServicio.class
+gm\inventarios\controlador\ProductoControlador.class
+gm\inventarios\modelo\Producto.class
